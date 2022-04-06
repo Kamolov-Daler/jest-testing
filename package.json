@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Jest Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Kamolov Daler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "jest": "^27.5.1"
+  }
+}
